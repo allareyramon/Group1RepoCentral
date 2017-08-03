@@ -6,8 +6,6 @@ public class TraingleTest {
 
 	public void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		
 	}
 	
 	public void Downiterate(int x, int y){
@@ -16,7 +14,6 @@ public class TraingleTest {
 			System.out.println();
 			Downiterate(x-1,y+1);	
 		}
-	
 	}
 	
 	public void sideIterate(int z){
