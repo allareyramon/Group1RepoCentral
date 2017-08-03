@@ -34,7 +34,7 @@ public class Main_exec1 {
 		
 		for (int x = 0; x< 3; x++) {
 			objCycle[x].ride(stringCycle[x]);
-			
+			//Excercise2
 			//objCycle[x].balance();    //--Method balance is Undefined (Syntax Error)
 			System.out.println("xxxxxxxxxxxxxxxxxx");
 		}

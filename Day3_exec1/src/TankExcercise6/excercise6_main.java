@@ -17,7 +17,6 @@ public class excercise6_main {
 		System.out.println("Tank filled = " + ObjTank.isfilled);
 		ObjTank.clean();
 		
-		
 		ObjTank.empty();//tank is now empty
 		System.out.println("Tank is filled = " + ObjTank.isfilled);
 		ObjTank.clean();
