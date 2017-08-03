@@ -5,14 +5,14 @@ public class DogClass {
 		
 	}
 	
-	public void DogAct(String action)
+	public void bark(String action)
 	{
 		System.out.println("the Dog " + action);
 	}
-	public void DogAct(String action, String anyWord) {
+	public void bark(String action, String anyWord) {
 		System.out.println("the Dog " + action + anyWord);
 	}
-	public void DogAct(int num)	{
+	public void bark(int num)	{
 		System.out.println(num + "# of dog/dogs");
 	}
 }
